@@ -1,2 +1,3 @@
 # Synchronization_Task
-Internal Development in QA (SDET) Team for the Veeam test task
+
+Program synchronizing two folders periodically. User arguments include synchronization time and path to the source and the replica folder.
